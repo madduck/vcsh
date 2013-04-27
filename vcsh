@@ -358,3 +358,5 @@ hook pre-command
 $VCSH_COMMAND "$@"
 hook post-command
 verbose "$VCSH_COMMAND end, exiting"
+
+# vim:ts=8:noet:sw=8:sts=8
